@@ -33,6 +33,12 @@
 				"key": "alt+l",
 				"mac": "ctrl+l",
 				"when": "editorTextFocus"
+			},
+			{
+				"command": "copy-relative-filepath-with-line-number",
+				"key": "alt+shift+l",
+				"mac": "ctrl+shift+l",
+				"when": "editorTextFocus"
 			}
 		],
 		"commands": [
